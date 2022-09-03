@@ -1,0 +1,1 @@
+This folder contains preprocessed videos of jump and squat motions.
